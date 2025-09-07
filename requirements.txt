@@ -1,0 +1,6 @@
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+python-dotenv==1.0.1
+openai>=1.40.0
+tiktoken>=0.7.0
+pinecone>=4.0.0
