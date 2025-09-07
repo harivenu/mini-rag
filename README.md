@@ -1,11 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# yes readme.md
-
-Here’s a ready-to-use **README.md** template with your `.env` setup and example CURL requests:
-
-***
-
 # Mini RAG with Pinecone and OpenAI
 
 This project demonstrates how to build a lightweight Retrieval-Augmented Generation (RAG) system using **OpenAI embeddings**, **Pinecone** for vector storage, and a local API for ingesting and querying documents.
@@ -87,7 +79,4 @@ curl -X POST http://127.0.0.1:8000/query \
 - Adjust `top_k` in the query to control how many relevant results are returned.
 - You can expand the ingestion step with more documents to build up your knowledge base.
 
-***
-
-Would you like me to also add an **example JSON response** to the README so users can see the expected query output format?
 
