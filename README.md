@@ -27,7 +27,7 @@ CHAT_MODEL=gpt-4o-mini
 3. Start the local server:
 
 ```bash
-uvicorn main:app --reload --port 8000
+uvicorn app:app --host 0.0.0.0 --port 8000 --reload
 ```
 
 
