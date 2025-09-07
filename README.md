@@ -1,4 +1,4 @@
-# Mini RAG with Pinecone and OpenAI
+<img width="1978" height="1181" alt="image" src="https://github.com/user-attachments/assets/73909975-9192-484b-bb86-8789527662b1" /># Mini RAG with Pinecone and OpenAI
 
 This project demonstrates how to build a lightweight Retrieval-Augmented Generation (RAG) system using **OpenAI embeddings**, **Pinecone** for vector storage, and a local API for ingesting and querying documents.
 
@@ -9,6 +9,13 @@ This project demonstrates how to build a lightweight Retrieval-Augmented Generat
 ```bash
 git clone <your-repo-url>
 cd <your-repo>
+
+# Python venv setup 
+python3 -m venv rag-env
+
+# Active venv
+source rag-env/bin/activate   
+
 pip install -r requirements.txt
 ```
 
