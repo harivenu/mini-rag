@@ -1,4 +1,4 @@
-<img width="1978" height="1181" alt="image" src="https://github.com/user-attachments/assets/73909975-9192-484b-bb86-8789527662b1" /># Mini RAG with Pinecone and OpenAI
+# Mini RAG with Pinecone and OpenAI
 
 This project demonstrates how to build a lightweight Retrieval-Augmented Generation (RAG) system using **OpenAI embeddings**, **Pinecone** for vector storage, and a local API for ingesting and querying documents.
 
